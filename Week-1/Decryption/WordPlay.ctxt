@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=WordPlay
+comment0.text=\r\n\ Character\ in\ Strings\ manipulation\ stuff\r\n\ \r\n\ @author\ Arav\ Tewari\ \r\n\ @version\ June\ 8,\ 2020\r\n
+comment1.params=letter
+comment1.target=boolean\ isVowel(char)
+comment2.params=
+comment2.target=void\ testIsVowel()
+comment3.params=phrase\ ch
+comment3.target=java.lang.String\ replaceVowels(java.lang.String,\ char)
+comment4.params=
+comment4.target=void\ testReplaceVowels()
+comment5.params=phrase\ ch
+comment5.target=java.lang.String\ emphasize(java.lang.String,\ char)
+comment6.params=
+comment6.target=void\ testEmphasize()
+numComments=7
